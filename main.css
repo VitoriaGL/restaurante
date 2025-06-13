@@ -1,0 +1,91 @@
+
+body {
+    background: url('universo.gif') repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h1 {
+    color: #f1c40f;
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    background-color: #1f1f3d !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #f1c40f !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #ffffff !important;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.jumbotron {
+    background-image: linear-gradient(to right, #1f1f3d, #0d0d1a);
+    padding: 4rem 2rem;
+    margin-bottom: 0;
+}
+
+.jumbotron h3 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.chef-profile {
+    background-color: #1c1c2e;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.chef-profile img {
+    max-height: 200px;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+}
+
+.card {
+    background-color: #1c1c2e;
+    color: white;
+    border: none;
+    margin-bottom: 1.5rem;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.form-control {
+    background-color: #2e2e4d;
+    color: white;
+    border: 1px solid #555;
+}
+
+.btn-primary {
+    background-color: #f1c40f;
+    border: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #ffdd33;
+}
+
+footer {
+    background-color: #1f1f3d;
+    color: #f1c40f;
+}
