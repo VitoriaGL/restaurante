@@ -1,6 +1,6 @@
 
 body {
-    background: url('universo.gif') repeat center center fixed;
+    background: url('public/img/universo.gif') repeat center center fixed;
     background-size: cover;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
